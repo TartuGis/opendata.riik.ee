@@ -10,7 +10,7 @@ category:
 category_en:
   - Regions and Cities
 resources:
-  - url: 'https://gis.tartulv.ee/arcgis/services/Kalmistu/KL_koond/MapServer/FeatureServer?wsdl'
+  - url: 'https://gis.tartulv.ee/arcgis/services/Kalmistu/KA_avalik_maetu/MapServer/FeatureServer?wsdl'
     format: XML
     name: Tartu kalmistute kaardirakendus
     interactive: 'False'
